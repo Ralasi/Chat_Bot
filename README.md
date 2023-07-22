@@ -3,6 +3,9 @@
 SCREENSHOT :
 ![Screenshot (280)](https://github.com/Ralasi/Chat_Bot/assets/128724283/fa965d1c-30bc-4f7d-aaef-72005f4d20aa)
 
+CLICK TO VISIT DEMO VIDEO
+[DEMO VIDEO](https://drive.google.com/file/d/1C7yQqFzsV92h3t8yIAGNOM6EEl7be0No/view?usp=sharing)
+
 LANGUAGE AND TECHNOLOGY :
 HTML, CSS, JavaScript, API(Open AI)
 
